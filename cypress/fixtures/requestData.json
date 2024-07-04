@@ -1,0 +1,20 @@
+{
+  "getUser": {
+    "id": 2,
+    "email": "janet.weaver@reqres.in",
+    "first_name": "Janet",
+    "last_name": "Weaver"
+  },
+  "postUser": {
+    "name": "Bingo",
+    "job": "Team lead"
+  },
+  "putUser": {
+    "name": "Angel",
+    "job": "zion resident"
+  },
+  "patchUser": {
+    "name": "morpheus",
+    "job": "zion resident"
+  }
+}
